@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Kavya's First CS 193 Homework
+
+## Favorite things about CS 193
+- learning new skills to use in CS courses
+- learning useful tips such as resumes, internships, career fairs, etc.
+- relaxed environment
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
